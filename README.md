@@ -12,6 +12,8 @@ Create ~/.config/yazi/keymap.toml if it dosen't exist and add the following line
 ```
 You can also change the keymap to what you want currently it is set to ```.```+```l```
 
+Enter selection mode in yazi and use the keymap set above after selecting the audio files.
+
 ## Contact
 
 *   [**Discord**](HTTPS://discordapp.com/users/399257188138483713) (English only)
