@@ -16,4 +16,4 @@ Enter selection mode in yazi and use the keymap set above after selecting the au
 
 ## Contact
 
-*   [**Discord**](HTTPS://discordapp.com/users/399257188138483713) (English only)
+* [**Discord**](HTTPS://discordapp.com/users/399257188138483713) (English only)
