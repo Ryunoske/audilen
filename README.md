@@ -4,4 +4,4 @@ Yazi Plugin to calculate total duration of all selected mp3 files. It required y
 
 ## Contact
 
-*   [**Discord:**](HTTPS://discordapp.com/users/399257188138483713)
+*   [**Discord**](HTTPS://discordapp.com/users/399257188138483713)
