@@ -2,6 +2,13 @@
 Yazi Plugin to calculate total duration of all selected mp3 files. It required yazi version 25.5.31 or above and [mediainfo](https://mediaarea.net/en/MediaInfo/Download) to work.
 
 ### Working
+Install by either cloing to repositorie to ~/.config/yazi/plugins or using the command provided below
+```
+ya pkg add Ryunoske/audilen.yazi
+# or
+ya pack -a Ryunoske/audilen.yazi
+```
+
 
 Create ~/.config/yazi/keymap.toml if it dosen't exist and add the following lines.
 ```
