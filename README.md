@@ -7,8 +7,8 @@ Create ~/.config/yazi/keymap.toml if it dosen't exist and add the following line
 ```
     [[mgr.prepend_keymap]]
     on = [".", "l"]
-    run = "plugin audiolen"
-    desc = "Audio length plugin"
+    run = "plugin audilen"
+    desc = "Calculate Total Duration of Selcted Audio Files"
 ```
 You can also change the keymap to what you want currently it is set to ```.```+```l```
 
